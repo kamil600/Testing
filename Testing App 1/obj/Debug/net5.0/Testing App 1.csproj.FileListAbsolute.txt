@@ -1,0 +1,40 @@
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\appsettings.Development.json
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\appsettings.json
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.exe
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.deps.json
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.runtimeconfig.json
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.runtimeconfig.dev.json
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.dll
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\ref\Testing App 1.dll
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.pdb
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.Views.dll
+C:\DEV\Testing App 1\Testing App 1\bin\Debug\net5.0\Testing App 1.Views.pdb
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.csprojAssemblyReference.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.AssemblyInfoInputs.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.AssemblyInfo.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.csproj.CoreCompileInputs.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.RazorAssemblyInfo.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.RazorAssemblyInfo.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\staticwebassets\Testing App 1.StaticWebAssets.Manifest.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\staticwebassets\Testing App 1.StaticWebAssets.xml
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\scopedcss\bundle\Testing App 1.styles.css
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.TagHelpers.input.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.TagHelpers.output.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.RazorCoreGenerate.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.RazorTargetAssemblyInfo.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.RazorTargetAssemblyInfo.cs
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.Views.pdb
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.dll
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\ref\Testing App 1.dll
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.pdb
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.genruntimeconfig.cache
+C:\DEV\Testing App 1\Testing App 1\obj\Debug\net5.0\Testing App 1.csproj.CopyComplete
