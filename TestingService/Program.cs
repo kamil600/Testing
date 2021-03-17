@@ -23,4 +23,4 @@ namespace TestingService
                     webBuilder.UseStartup<Startup>();
                 });
     }
-}
+}test
