@@ -22,5 +22,5 @@ namespace TestingService
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-    }test2
+    }
 }
